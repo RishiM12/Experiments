@@ -1,1 +1,1 @@
-You need to have Godot Engine to be able to read the script.
+To create a pull request
